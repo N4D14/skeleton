@@ -1,0 +1,4 @@
+export STATIC_DIR='web/app/build/dev'
+export DJANGO_DEBUG='true'
+export DJANGO_SECRET_KEY='ec_192-ctcjt_s7@-r!)tbvawa!eoo^t&b7ba09m4)6%32tzh9'
+
